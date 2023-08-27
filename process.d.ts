@@ -14,5 +14,7 @@ declare namespace NodeJS {
     AUTH0_SECRET: string
     DESCOPE_ID: string
     DESCOPE_SECRET: string
+    SASTLINK_ID: string
+    SASTLINK_SECRET: string
   }
 }
